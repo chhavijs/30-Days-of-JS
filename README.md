@@ -7,7 +7,7 @@ A 30 days of JS practice streak
 - [x] Day 1: Variable and Data Types
 - [x] Day 2: Operators
 - [x] Day 3: Control Structures
-- [ ] Day 4
+- [x] Day 4: Loops
 - [ ] Day 5
 - [ ] Day 6
 - [ ] Day 7
