@@ -5,8 +5,8 @@ A 30 days of JS practice streak
 ## Checklist
 
 - [x] Day 1: Variable and Data Types
-- [x] Day 2
-- [ ] Day 3
+- [x] Day 2: Operators
+- [x] Day 3: Control Structures
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6
