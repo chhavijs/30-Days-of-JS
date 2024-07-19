@@ -9,7 +9,7 @@ A 30 days of JS practice streak
 - [x] Day 3: Control Structures
 - [x] Day 4: Loops
 - [x] Day 5: Functions
-- [ ] Day 6
+- [X] Day 6: Arrays
 - [ ] Day 7
 - [ ] Day 8
 - [ ] Day 9
