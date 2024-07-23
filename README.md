@@ -11,7 +11,7 @@ A 30 days of JS practice streak
 - [x] Day 5: Functions
 - [x] Day 6: Arrays
 - [x] Day 7: Objects
-- [ ] Day 8
+- [x] Day 8: ES6+ Features
 - [ ] Day 9
 - [ ] Day 10
 - [ ] Day 11
