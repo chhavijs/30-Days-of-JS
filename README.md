@@ -12,7 +12,7 @@ A 30 days of JS practice streak
 - [x] Day 6: Arrays
 - [x] Day 7: Objects
 - [x] Day 8: ES6+ Features
-- [ ] Day 9
+- [x] Day 9: DOM MANIPULATION
 - [ ] Day 10
 - [ ] Day 11
 - [ ] Day 12
